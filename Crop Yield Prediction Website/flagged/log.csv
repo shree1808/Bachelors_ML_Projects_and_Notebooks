@@ -1,0 +1,11 @@
+Nitrogen,Phosphorous,Potassium,Temperature,Humidity,PH,Rainfall,Predicted Crop,flag,username,timestamp
+0,0,0,7,0,0,16,,,,2023-02-27 00:46:16.541378
+85,58,41,21,80,7,226,,,,2023-02-27 00:51:41.604868
+23,45,55,23.22,83,6.333333333333333,250.76,banana,,,2023-02-28 13:58:07.429198
+93,23,45,28,90,6.7,22,apple,,,2023-03-02 18:23:44.107373
+76,2000,West Bengal,False,c:\Users\Shree123\OneDrive\Desktop\tycsem6\flagged\output\tmp4azuvyrw.json,,,2023-03-05 01:28:38.446527
+76,2000,West Bengal,False,c:\Users\Shree123\OneDrive\Desktop\tycsem6\flagged\output\tmpeukpsspx.json,,,2023-03-05 01:28:39.340627
+76,2000,Tamil Nadu,True,c:\Users\Shree123\OneDrive\Desktop\tycsem6\flagged\output\tmpecsi5ozu.json,,,2023-03-06 02:19:02.697761
+76,2000,Tamil Nadu,True,c:\Users\Shree123\OneDrive\Desktop\tycsem6\flagged\output\tmp8gztbarp.json,,,2023-03-06 02:19:03.473134
+50000,25000,4585,277.65136125490267,,,2023-03-18 09:20:44.489194
+50000,25000,4585,277.65136125490267,,,2023-03-18 09:20:44.912981
