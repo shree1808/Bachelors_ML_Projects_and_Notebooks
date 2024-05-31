@@ -20,3 +20,10 @@ The project uses the crop recommendation dataset sourced from Kaggle, available 
 Future work for the project involves deploying the machine learning models over the cloud to improve scalability and accessibility. By deploying the models on the cloud, the project aims to reach a wider audience and further enhance agricultural productivity.
 
 ---
+## Copyright
+
+© 2023 Shree
+
+## Author
+
+Shree Sudame
